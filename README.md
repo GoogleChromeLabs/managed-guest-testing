@@ -12,9 +12,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+This tool is not owned by Google. Review the Github Terms of Use.
+
 # Testing Method with ChromeOS Managed Guest Session
 
-Managed guest session can be used to lock down the user session and provide only the tools needed. It works by adjusting the managed guest session settings for the organizational unit  where the devices are located.
+Managed guest session can be used to lock down the user session and provide only the tools needed. It works by adjusting the managed guest session settings for the organizational unit where the devices are located.
 
 Below are the domains that need to be entered as blocklist exceptions to create this experience.
 
