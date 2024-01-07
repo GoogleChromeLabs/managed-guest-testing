@@ -91,3 +91,8 @@ gulp deploy
 ```
 
 *Google Forms File Picker requires access to the user's Google Drive. This web app written in Apps Script will work to put content in the deployer's Google Drive. Set the run as to be yourself and allow on the domain.
+
+# Privacy considerations when using this tool
+1. [Limit access to the sheet](https://support.google.com/docs/answer/1218656?hl=en&co=GENIE.Platform%3DDesktop)
+2. Delete sheets after use.
+3. Disable IP collection if not necessary.
